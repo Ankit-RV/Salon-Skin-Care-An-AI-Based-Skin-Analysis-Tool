@@ -41,8 +41,6 @@ This AI-based skin analysis tool can help salon professionals diagnose skin cond
 ### Contact
 If you have any questions or suggestions, please contact 28ankit.raghu@gmail.com or https://github.com/Ankit-RV.
 
-Of course, you will need to customize this template to fit your specific project and requirements. Additionally, you may want to add more information such as licensing details, usage examples, and future development plans.
-
 
 
 
